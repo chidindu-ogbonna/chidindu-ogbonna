@@ -19,8 +19,8 @@ I'm a Data Scientist and Software Developer, I like to mess around with data, an
 I'm currently working on improving collaboration on Medical apps and devices at [Medherd](https://medherd.com), where I do a lot of these things.
 
 ## What else do I do 🤔 ? 
-I write about data, machine learning and technology at [DataHorror](https://datahorror.com), and I've built a few projects based on these topics.
+I write about data, machine learning and technology on my [blog](https://chidinduogbonna.com/blog), and I've built a few projects based on these topics.
 <!-- List the projects done
 * DAtahorror - Does so so so an so-->
 
-You can reach me out on [email](mailto:hello@chidinduogbonna.com) or [twitter](https://twitter.com/chidinduogbonna), to talk on anything 😄.
+You can reach me out on [email](mailto:hello@chidinduogbonna.com) or [Twitter](https://twitter.com/chidinduogbonna), to talk on anything 😄.
