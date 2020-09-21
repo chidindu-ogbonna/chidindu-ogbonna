@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Data Scientist and Software Developer, I like to mess around with data, and stretch the use cases of cloud computing. I build of frontends using Javascript, I also do serverless and deploy models to the cloud built with Python.
+I'm a Data Scientist and Software Engineer, I like to mess around with data, and stretch the use cases of cloud computing. I build of frontends using Javascript, I also do serverless and deploy models to the cloud built with Python.
 
 I'm currently working on improving collaboration on Medical apps and devices at [Medherd](https://medherd.com), where I do a lot of these things.
 
