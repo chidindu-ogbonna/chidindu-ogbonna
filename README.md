@@ -2,28 +2,24 @@
 
 <!--
 **chidindu-ogbonna/chidindu-ogbonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-I'm a Software and Machine Learning Engineer, I like to mess around with data, and stretch the use cases of cloud computing. I also know how to build web apps using Javascript. I'm a serverless advocate 😊.
+I'm a Software and Machine Learning Engineer. I like to mess around with data, and stretch the use cases of cloud computing. I also know how to build web apps using Javascript and I'm in love with the serverless paradigm.
+
+My mission is to build practical Machine Learning applications.
 
 I'm currently working on improving collaboration on Medical apps and devices at [Medherd](https://medherd.com), where I do a lot of these things.
 
-## What else do I do 🤔 ? 
-* I built a twitter bot called [threadspeaker](https://twitter.com/threadspeaker), that converts tweets to audio ![threadspeaker card](https://res.cloudinary.com/cheapflix/image/upload/v1602190762/threadspeaker-card.png)
+## Interesting things I've built 🤓 
+* [Threadspeaker](https://twitter.com/threadspeaker) - A twitter bot that converts tweets to audio.
+* [Is This Jollof ?](https://isthisjollof.com) - A machine learning service that identifies if a plate food is jollof rice or not.
 
-* I write about data, machine learning and technology on my [blog](https://chidinduogbonna.com/blog), and I've built a few projects based on these topics.
+## Other things I do
+* [A Blog](https://chidinduogbonna.com/blog) - I write about data, machine learning and technology 
+* [EverythingML](https://everythingml.com) - A newsletter called on the important things you need to know about ML and Data Science in production.
 <!-- List the projects done
 * DAtahorror - Does so so so an so-->
 
-## Now you want to talk to me ?
-You can reach me out on [email](mailto:hello@chidinduogbonna.com) or [Twitter](https://twitter.com/chidinduogbonna), to talk on anything 😄.
+You can reach me on  [Email](mailto:hello@chidinduogbonna.com) or [Twitter](https://twitter.com/chidinduogbonna), that's fully up to you.
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/chidinduogbonna?label=Follow&style=social)](https://twitter.com/chidinduogbonna)
