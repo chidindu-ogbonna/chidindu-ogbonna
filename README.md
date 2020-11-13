@@ -9,7 +9,7 @@ My mission is to build practical Machine Learning applications.
 
 I'm currently working on improving collaboration on Medical apps and devices at [Medherd](https://medherd.com), where I do a lot of these things.
 
-## Interesting things I've built 🤓 
+## Interesting things I've built
 * [Threadspeaker](https://twitter.com/threadspeaker) - A twitter bot that converts tweets to audio.
 * [Is This Jollof ?](https://isthisjollof.com) - A machine learning service that identifies if a plate food is jollof rice or not.
 
