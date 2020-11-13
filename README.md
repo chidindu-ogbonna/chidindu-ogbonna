@@ -14,8 +14,8 @@ I'm currently working on improving collaboration on Medical apps and devices at 
 * [Is This Jollof ?](https://isthisjollof.com) - A machine learning service that identifies if a plate food is jollof rice or not.
 
 ## Other things I do
-* [A Blog](https://chidinduogbonna.com/blog) - I write about data, machine learning and technology 
-* [EverythingML](https://everythingml.com) - A newsletter called on the important things you need to know about ML and Data Science in production.
+* [A Blog](https://chidinduogbonna.com/blog) - I tell you my opinions about data, machine learning and technology.
+* [EverythingML](https://everythingml.com) - A newsletter on the important things you need to know about ML and Data Science in production.
 <!-- List the projects done
 * DAtahorror - Does so so so an so-->
 
