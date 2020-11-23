@@ -1,13 +1,11 @@
-# Hello People 👋
+# Straight to the point
 
 <!--
 **chidindu-ogbonna/chidindu-ogbonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a Software and Machine Learning Engineer. I like to mess around with data, and stretch the use cases of cloud computing. I also know how to build web apps using Javascript and I'm in love with the serverless paradigm.
+I'm a Software and Machine Learning Engineer, who wants to build practical machine learning applications.
 
-My mission is to build practical Machine Learning applications.
-
-I'm currently working on improving collaboration on Medical apps and devices at [Medherd](https://medherd.com), where I do a lot of these things.
+Check my pinned tabs.😊
 
 ## Interesting things I've built
 * [Threadspeaker](https://twitter.com/threadspeaker) - A twitter bot that converts tweets to audio.
