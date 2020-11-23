@@ -5,7 +5,7 @@
 -->
 I'm a Software and Machine Learning Engineer, who wants to build practical machine learning applications.
 
-Check my pinned tabs.😊
+Check my pinned repos 😊
 
 ## Interesting things I've built
 * [Threadspeaker](https://twitter.com/threadspeaker) - A twitter bot that converts tweets to audio.
