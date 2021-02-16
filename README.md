@@ -20,4 +20,4 @@ Check my pinned repos 😊
 You can reach me on  [Email](mailto:hello@chidinduogbonna.com) or [Twitter](https://twitter.com/chidinduogbonna), that's fully up to you.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/6ones_?label=Follow&style=social)](https://twitter.com/6ones_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/madebypromise?label=Follow&style=social)](https://twitter.com/6ones_)
