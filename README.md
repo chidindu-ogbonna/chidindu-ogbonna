@@ -17,7 +17,7 @@ Check my pinned repos 😊
 <!-- List the projects done
 * DAtahorror - Does so so so an so-->
 
-You can reach me on  [Email](mailto:hello@chidinduogbonna.com) or [Twitter](https://twitter.com/chidinduogbonna), that's fully up to you.
+You can reach me on  [Email](mailto:promise.bones@gmail.com) or [Twitter](https://twitter.com/6ones_), that's fully up to you.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/madebypromise?label=Follow&style=social)](https://twitter.com/6ones_)
