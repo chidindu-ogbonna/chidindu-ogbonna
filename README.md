@@ -9,7 +9,7 @@ Check my pinned repos 😊
 
 ## Interesting things I've built
 * [Threadspeaker](https://twitter.com/threadspeaker) - A twitter bot that converts tweets to audio.
-* [Is This Jollof ?](https://isthisjollof.com) - A machine learning service that identifies if a plate food is jollof rice or not.
+* [Is This Jollof ?](https://isthisjollof.web.app) - A machine learning service that identifies if a plate food is jollof rice or not.
 
 ## Other things I do
 * [A Blog](https://chidinduogbonna.com/blog) - I tell you my opinions about data, machine learning and technology.
