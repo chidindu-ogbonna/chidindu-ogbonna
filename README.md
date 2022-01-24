@@ -21,3 +21,5 @@ You can reach me on  [Email](mailto:promise.bones@gmail.com) or [Twitter](https:
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/6ones_?label=Follow&style=social)](https://twitter.com/6ones_)
+
+<!-- [![](https://github-readme-stats.vercel.app/api?username=chidindu-ogbonna&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chidindu-ogbonna&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
